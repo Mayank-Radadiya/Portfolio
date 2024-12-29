@@ -1,4 +1,4 @@
-import { motion } from "framer-motion"
+import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 
@@ -18,9 +18,8 @@ const Hero = () => {
             Hi I'm <span className="text-[#915fff]">Mayank</span>{" "}
           </h1>
           <p className={`${styles.heroSubText}`}>
-            A passionate Full-Stack Developer <br /> with expertise in crafting
-            scalable <br /> web applications and seamless user <br />{" "}
-            experiences.
+            A passionate and dedicated Full Stack Developer, eager to build
+            dynamic, user-friendly web applications.
           </p>
         </div>
       </div>
@@ -44,6 +43,6 @@ const Hero = () => {
       </div>
     </section>
   );
-}
+};
 
-export default Hero
+export default Hero;
