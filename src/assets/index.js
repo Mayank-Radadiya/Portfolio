@@ -25,7 +25,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import zoom from "./zoom.png";
 import chatapp from "./chatapp.png";
-import threads from "./threads.png";
+import threads from "./Threads.png";
 
 export {
   Logo,
