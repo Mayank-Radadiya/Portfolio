@@ -26,6 +26,11 @@ import tesla from "./company/tesla.png";
 import zoom from "./zoom.png";
 import chatapp from "./chatapp.png";
 import threads from "./Threads.png";
+import php from "./tech/php.svg";
+import vite from "./tech/vite.svg";
+import rust from "./tech/rust.svg";
+import express from "./tech/express.svg";
+import NextJs from "./tech/NextJs.svg";
 
 export {
   Logo,
@@ -55,5 +60,10 @@ export {
   tesla,
   zoom,
   threads,
-  chatapp
+  chatapp,
+  express,
+  vite,
+  php,
+  rust,
+  NextJs
 };
